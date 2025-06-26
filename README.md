@@ -1,4 +1,4 @@
-# gen-ai
+# GenAI: Creative Text and Image Generation
 Overview
 This project explores the creative potential of Generative AI through two main applications:
 
